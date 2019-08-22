@@ -12,4 +12,4 @@ These events are relatively easy to find, in that they are usually all-day event
 2. Update the path to the script in step 1 in line 12 of "com.anotherhobby.reset-outlook.plist"
 3. Update the frequency in seconds on line 15 if you'd like it to run other than every 5 minutes
 
-
+The first time it runs, you'll get a Finder message asking you if it's okay to let the script control Microsoft Outlook.
